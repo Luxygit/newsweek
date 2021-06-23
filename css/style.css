@@ -1,0 +1,30 @@
+@media (min-width: 1200px) {
+  body {
+    display: block;
+    overflow-x: hidden;
+  }
+
+  #navcontainer {
+    background: red;
+    width: 80%;
+    height: 100px;
+    padding: 0px;
+  }
+  #nav-link {
+    color: rgb(0, 0, 0) !important;
+  }
+
+  #mainheader {
+    margin: auto;
+    font-size: 75px !important;
+    font-weight: bolder;
+    width: 50%;
+    padding: 0px;
+    margin-top: -10px;
+  }
+  .navdivcontainer {
+    margin: auto;
+    width: 70%;
+  }
+  /* main*/
+}
